@@ -27,7 +27,7 @@
     "intl": "^1.2.5",
     "jquery-slim": "^3.0.0",
     "rxjs": "^5.1.0",
-    "sass-lint": "^1.10.2",
+    "sass-lint": "^1.12.1",
     "tether": "^1.4.0",
     "web-animations-js": "^2.3.1",
     "zone.js": "^0.8.4"
